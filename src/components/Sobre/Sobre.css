@@ -1,0 +1,19 @@
+.container-content {
+    height: 83vh;
+    padding-top: 5rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    padding: 2rem;
+  }
+  
+  
+  
+  .title-about {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
