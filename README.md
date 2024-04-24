@@ -1,30 +1,29 @@
-# React + TypeScript + Vite
+ Coleta de Lixo Eletrônico: Preservando o Futuro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Introdução
 
-Currently, two official plugins are available:
+O lixo eletrônico, também conhecido como e-lixo, é composto por dispositivos eletrônicos descartados, como computadores, celulares, tablets, TVs e outros aparelhos. Esses dispositivos contêm materiais valiosos, mas também substâncias tóxicas que podem prejudicar o meio ambiente e a saúde humana se não forem tratados corretamente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Por que a Coleta de Lixo Eletrônico é Importante?
 
-## Expanding the ESLint configuration
+1. Recursos Preciosos: Os dispositivos eletrônicos contêm metais preciosos como ouro, prata e cobre. Reciclar esses materiais reduz a necessidade de mineração e preserva recursos naturais.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+2. Prevenção da Poluição: Quando o lixo eletrônico é descartado incorretamente, os componentes químicos podem vazar para o solo e a água, causando poluição ambiental. A coleta adequada evita essa contaminação.
 
-- Configure the top-level `parserOptions` property like this:
+3. Saúde Pública: Muitos dispositivos eletrônicos contêm substâncias tóxicas, como mercúrio, chumbo e cádmio. O descarte inadequado pode afetar a saúde das pessoas e dos animais.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+4. Responsabilidade Social: Ao participar da coleta de lixo eletrônico, estamos contribuindo para um mundo mais sustentável e consciente.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Como Contribuir
+
+1. Encontre Pontos de Coleta: Pesquise locais próximos onde você pode descartar seu lixo eletrônico de forma segura. Muitas cidades têm postos de coleta específicos.
+
+2. Separe os Itens: Separe os dispositivos eletrônicos que você deseja descartar. Isso facilita o processo de reciclagem.
+
+3. Dados Pessoais: Antes de descartar, lembre-se de apagar todos os dados pessoais dos dispositivos, como fotos, senhas e informações bancárias.
+
+4. Participe de Campanhas: Muitas organizações promovem campanhas de coleta de lixo eletrônico. Junte-se a elas!
+
+Conclusão
+
+A coleta de lixo eletrônico é uma responsabilidade de todos nós. Ao fazer a nossa parte, contribuímos para um planeta mais limpo, saudável e sustentável. Vamos cuidar do nosso futuro!
