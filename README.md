@@ -28,6 +28,7 @@ O lixo eletrônico, também conhecido como e-lixo, é composto por dispositivos 
 
 A coleta de lixo eletrônico é uma responsabilidade de todos nós. Ao fazer a nossa parte, contribuímos para um planeta mais limpo, saudável e sustentável. Vamos cuidar do nosso futuro!
 
+## Telas do projeto
 ![image](https://github.com/user-attachments/assets/a09a64b9-1d65-4b65-945d-3979e202dc54)
 ![image](https://github.com/user-attachments/assets/58f328d3-0a57-4797-bbf7-e9ff934c9fa2)
 ![image](https://github.com/user-attachments/assets/eee65bfb-1588-40a1-96be-ce377838bafd)
